@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Environment variables
+.env
+
+# Secrets
+application-secret.properties
+
+#Run File
+run.sh
